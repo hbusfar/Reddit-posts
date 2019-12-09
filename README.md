@@ -1,4 +1,4 @@
-# Hussam Busfar's Project 3 - Reddit posts: Economy or Sport?
+# Reddit posts: Economy or Sport?
 
 
 ## Introduction
